@@ -1,0 +1,5 @@
+Aug 18 08:12:30 server sshd[1042]: Accepted publickey for root from 192.168.1.50 port 52140 ssh2
+Aug 18 08:15:02 server sshd[1089]: Failed password for invalid user admin from 203.0.113.42 port 43110 ssh2
+Aug 18 08:15:05 server sshd[1091]: Failed password for invalid user admin from 203.0.113.42 port 43112 ssh2
+Aug 18 08:18:22 server sshd[1105]: Accepted publickey for ecp from 192.168.1.50 port 52188 ssh2
+Aug 18 08:20:11 server sshd[1140]: Failed password for root from 198.51.100.15 port 39201 ssh2
